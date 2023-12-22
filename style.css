@@ -1,0 +1,88 @@
+*
+{
+    background-color: hsl(30, 38%, 92%);
+    
+}
+
+#main
+{
+    display: flex;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+}
+
+.section1 img 
+{
+   border-bottom-left-radius: 10px;
+   border-top-left-radius: 10px;
+
+}
+
+.section2
+{
+   background-color: rgb(255, 255, 255);
+   height: 450px;
+   width: 300px;
+   border-bottom-right-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+.one
+{
+    margin-top: 35px;
+    font-size: 15px;
+    letter-spacing: 4px;
+    margin-left: 35px;
+    font-family: monospace;
+    opacity: 0.5;
+}
+
+.two
+{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: -30px;
+}
+
+.three
+{
+    font-size: 15px;
+    margin-top: -65px;
+    line-height: 25px;
+    opacity: 0.7;
+}
+
+.section2 h2
+{
+    margin-left: 30px;
+    font-size: 35px;
+    font-family:sans-serif;
+    margin-bottom: -30px;
+    color: rgb(73, 121, 73);
+    margin-top: -20px;
+}
+
+.section2 del
+{
+    margin-left: 200px;
+    opacity: 0.6;
+   
+}
+.section2 button
+{
+    margin-left: 50px;
+    margin-top: 20px;
+    font-size: 15px;
+    background-color: rgb(73, 121, 73);
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 8px;
+}
+.section2 button svg
+{
+    margin-right: 10px;
+    background: none;
+}
